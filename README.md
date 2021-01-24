@@ -1,14 +1,17 @@
 # Shout it out loud!
 
-This rockstar program turns all lower case letters of your input into upper case letters.
+[This rockstar program](./shout_it_out_loud.rock) turns all lower case letters of your input into upper case letters.
 
 # Run it!
-Run it online at [codewithrockstar.com](https://codewithrockstar.com/online?source=https://raw.githubusercontent.com/holistic-developer/shout-it-out-loud/main/shout_it_out_loud.rock)
-or compile/transpile/interpret it with one of the tools recommended at [Rockstar implementations](https://codewithrockstar.com/code).
+**[Run it in your browser](https://codewithrockstar.com/online?source=https://raw.githubusercontent.com/holistic-developer/shout-it-out-loud/main/shout_it_out_loud.rock)**
+
+or compile/transpile/interpret the code with one of the tools recommended at [rockstar implementations](https://codewithrockstar.com/code).
 
 # What's going on?
 See the the [minimalist](./shout_it_out_loud_minimalist.rock) version explaining the program.
+The idiomatic version just uses other variable names and some command aliases.
 
-[Run Online](https://codewithrockstar.com/online?source=https://raw.githubusercontent.com/holistic-developer/shout-it-out-loud/main/shout_it_out_loud_minimalist.rock)
+This program builds a mapping table for all lower case characters and their respective upper case characters.
+It then checks for every element of the input if a mapping could be found and if so, it uses this mapping value in the output.
 
-See all language features in the [docs](https://codewithrockstar.com/docs).
+See all rockstar language features in the [docs](https://codewithrockstar.com/docs).
