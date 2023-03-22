@@ -2,6 +2,8 @@
 
 [This rockstar program](./shout_it_out_loud.rock) turns all lower case letters of your input into upper case letters.
 
+It is proof that I am indeed a "Rockstar developer".
+
 # Run it!
 **[Run it in your browser](https://codewithrockstar.com/online?source=https://raw.githubusercontent.com/holistic-developer/shout-it-out-loud/main/shout_it_out_loud.rock)**
 
